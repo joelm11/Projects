@@ -1,2 +1,2 @@
 # Projects 
-Various freetime projects
+Various projects
